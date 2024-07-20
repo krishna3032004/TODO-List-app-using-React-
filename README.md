@@ -1,5 +1,5 @@
 # TODO List App
-A simple and intuitive Todo List application built with Next.js. This app allows users to manage their daily tasks efficiently by adding, updating, and deleting tasks. With a clean and user-friendly interface, users can keep track of their to-do items and organize their day effectively.
+A simple and intuitive Todo List application built with Next.js. This app allows users to manage their daily tasks efficiently by adding, updating, and deleting tasks. With a clean and user-friendly interface, users can keep track of their to-do items and organize their day effectively. All data of user store in local storage.
 ![Screenshot 2024-07-20 193505](https://github.com/user-attachments/assets/b58f91fe-924c-481c-94d7-db8be166648b)
 
 
@@ -26,7 +26,7 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/krishna3032004/TODO-list-app-using-React-Mongodb.git
+   git clone https://github.com/krishna3032004/TODO-List-app-using-React-.git
    ```
 2. Navigate to the project directory
    ```sh
